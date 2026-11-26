@@ -18,7 +18,6 @@
 | 项目 | 说明 | 技术 |
 | :--- | :--- | :--- |
 | **[tooldelta-plugins](https://github.com/smr520/tooldelta-plugins)** | ToolDelta 类式插件库，同时是可以直接使用的自定义插件市场源。34 个插件，根目录用中文插件名，在插件市场里搜索即可安装。 | `Python` |
-| **[bedrock-1-21-130-commands](https://github.com/smr520/bedrock-1-21-130-commands)** | 网易中国版 V3.10 / BE 1.21.130 的纯命令方块系统：技能说明、示例、模型与规格校验器。 | `Python` |
 | **[nightfall-host-app](https://github.com/smr520/nightfall-host-app)** | 给线下狼人杀主持人用的离线 Android 工具：流程、桌规、对局记录，断网也能跑。 | `TypeScript` `Expo` |
 
 ## 关于
